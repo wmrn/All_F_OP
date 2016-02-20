@@ -1,11 +1,14 @@
 # ALL_F_OP
 アニメすべてがFになるのオープニングのキャラクターの線画の模倣っぽい物 2016/02/20  
+![元ネタ画像](https://raw.github.com/wmrn/All_F_OP/data/f04-00001.jpg)
+!(https://raw.github.com/wmrn/All_F_OP/data/OP_f.png)
 
 ## 何で作ったかとか
 このアニメのエンディングが全部プログラミングってきいてその模倣もみてなんか…やってみたかったけど…。  
 kinectのセンサーがうまく働いてないのか自分の書き方が間違ってるのかよくわからないけど…  
 後ろのものまでうまく消すとこまでできなかった…。  
-最初センサーいらなそうだからWebcameraでできるかなと思って一応やって見たやつも一緒に上げておく。  
+最初センサーいらなそうだからWebcameraでできるかなと思って一応やって見たやつも一緒に上げておく。
+作ったやつの写真はなしです。すみません。  
 ＜参考＞<http://opencv.blog.jp/processing/laplacian>  
 ＜参考＞<http://r-dimension.xsrv.jp/classes_j/image_processing1/>  
 ＜参考＞<https://gist.github.com/weed/1722806>   
