@@ -1,7 +1,7 @@
 # ALL_F_OP
 アニメすべてがFになるのオープニングのキャラクターの線画の模倣っぽい物 2016/02/20  
-![元ネタ画像](https://raw.github.com/wmrn/All_F_OP/data/f04-00001.jpg)
-!(https://raw.github.com/wmrn/All_F_OP/data/OP_f.png)
+![](https://github.com/wmrn/All_F_OP/blob/master/data/f04-00001.jpg)
+![](https://github.com/wmrn/All_F_OP/blob/master/data/OP_f.png)
 
 ## 何で作ったかとか
 このアニメのエンディングが全部プログラミングってきいてその模倣もみてなんか…やってみたかったけど…。  
